@@ -25,7 +25,7 @@ Dieses Projekt implementiert einen einfachen Webservice zur Benutzerverwaltung m
 
 Das Deployment erfolgt mittels Docker insbesonder docker-compose.yml
 
-### 1. Directory erstellen
+### 1. Am lokalen Rechner ein Directory erstellen
 
 ### 2. Docker-Compose runterladen
 
